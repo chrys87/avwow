@@ -1,0 +1,3 @@
+#var $SoundPath=/home/chrys/Projekte/powwow-sound-script/avalon-powwow/sounds/
+#var $ForegroundPlayer=play -q
+#var $PlayCommand=("cd " + $SoundPath + " && " + $ForegroundPlayer)
