@@ -1,4 +1,4 @@
-#var $RootPath=/home/chrys/Projekte/powwow-sound-script/avalon-powwow/
+#var $RootPath=/opt/avwow/
 
 #exe <($RootPath+"config.txt")
 #exe <($RootPath+"alias.pow")
